@@ -1,7 +1,7 @@
 
 function Test() {
   return (
-    <h1>Test component</h1>
+    <h1 className="test">Test component</h1>
   )
 }
 
