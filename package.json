@@ -1,0 +1,25 @@
+{
+  "name": "gulp-start",
+  "version": "1.0.0",
+  "description": "project with gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Torandori/music_project.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "Viktori V",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Torandori/music_project/issues"
+  },
+  "homepage": "https://github.com/Torandori/music_project#readme",
+  "devDependencies": {
+    "gulp": "^5.0.0"
+  }
+}
